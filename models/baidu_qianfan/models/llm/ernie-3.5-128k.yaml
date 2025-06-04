@@ -20,7 +20,6 @@ parameter_rules:
       en_US: penalty score
     min: 1.0
     max: 2.0
-    type: float
   - name: max_tokens
     use_template: max_tokens
     default: 4096
